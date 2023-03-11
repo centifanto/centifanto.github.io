@@ -9,12 +9,12 @@ As I mentioned in my [previous post](/posts/new-website), I was using a static G
 ### Create the repo
 For now, let me focus on the title of this post. First step was to use the template above, and name the repo `<GitHub_username>.io` in my account. Mine looks like this --> `centifanto.github.io`.
 
-Then clone my repo locally to customize and create posts. Here are a couple customizations I did that might be helpful for you.
+Then cloned my repo locally to customize and create posts. Here are a couple customizations I did that might be helpful for you.
 
 NOTE: the instructions say to install all of the [dependencies/prerequisites](https://github.com/cotes2020/chirpy-starter#prerequisites), such as Ruby, but this is not needed. Installing these are just for previewing the site locally. 
 
 ### Custom domain
-Pretty simple, but you just go to the repo's Pages settings to enable this. See [the docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain) for more info, but essentially you just need a a TXT record to verify domain ownership, and then A records pointing to GitHub pages endpoints
+Pretty simple, but you just go to the repo's Pages settings to enable this. See [the docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain) for more info, but essentially I just needed a TXT record to verify domain ownership, and then A records pointing to GitHub pages endpoints
 
 ### Remove categories from tabs
 Modified the `config.yml` from this:
@@ -39,15 +39,15 @@ jekyll-archives:
     tag: /tags/:name/
 ```
 
-Then, delete  `_tabs/categories.md`.
+Then, deleted  `_tabs/categories.md`.
 
 ### Other config updates
-- Update all of the appropriate title, description, and social fields. 
-- Update the avatar to my Twitter profile picture
-- Modify `theme_mode: [light|dark]` to just `[dark]` to nuke light mode (I hate glaring white)
+- Updated all of the appropriate title, description, and social fields. 
+- Updated the avatar to my Twitter profile picture
+- Modified `theme_mode: [light|dark]` to just `[dark]` to nuke light mode (I hate glaring white)
 
 ### Comments
-I enabled Disqus to test and it worked fine, but removed as I didn't care for the styling, not to mention their questionable privacy policies. I instead configured [utterances](https://utteranc.es/), an open source and lightweight commenting app that uses GitHub Issues to store the comments. There is no tracking, no ads, and no data lock-in. Beings this is a technical DevOps blog, I would imagine most readers will have a GitHub account. If this was a different genre of blog, maybe Disqus would be more appropriate.
+I enabled Disqus to test and it worked fine, but removed as I didn't care for the styling, not to mention their questionable privacy policies. I instead configured [utterances](https://utteranc.es/), an open source and lightweight commenting app that uses GitHub Issues to store the comments. There is no tracking, no ads, and no data lock-in. Beings this is a technical blog, I would imagine most readers will have a GitHub account. If this was a different genre of blog, maybe Disqus would be more appropriate.
 
 ### Change favicon
 Go to [this page](https://chirpy.cotes.page/posts/customize-the-favicon/) for instructions
@@ -70,9 +70,9 @@ tags: [blog/obsidian_nested,regular_tag]
 Content of blog post....
 ```
 
-Place your files in the `_posts` dir.
+Placed my files in the `_posts` dir.
 
 # That's it!
-Push all of these changes and the blog will be live. Feel free to comment below if you have questions or run into issues.
+Pushed all of these changes and the blog was live. You can watch the pipeline build the site in the Actions tab. Feel free to comment below if you have questions or run into issues.
 
-I will do a follow up post with my Obsidian workflow for my workflow in creating the actual post files.
+I will do a follow up post with my Obsidian workflow for creating the actual post files.
