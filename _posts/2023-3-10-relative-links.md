@@ -1,6 +1,6 @@
 ---
 title: relative links
-tags: [website,markdown]
+tags: [blog/website,blog/markdown]
 ---
 testing relative links and second tag
-[New website](/posts//new-website)
+[New website](/posts/new-website)
