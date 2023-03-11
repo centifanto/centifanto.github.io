@@ -80,7 +80,7 @@ This app is similar to Workflowy, with some additional cons.
 -   Tasks do not clear when checked
 -   Plain text and OPML for export instead of Markdown and YAML like Amplenote
 
-## Others
+# Others
 
 #### [Notesnook](https://notesnook.com)
 - Notebook/folder based structure instead of tags
@@ -117,10 +117,10 @@ This app is similar to Workflowy, with some additional cons.
 - I don't trust the company due to past decisions, online only unless paying for the product, too expensive for "Personal" plan, cluttered/sluggish design IMO, duplicate "tasks" and "checklists" are confusing
 
 #### [Clickup](https://clickup.com) 
-- Too many animations and color, cluttered and busy design, did not feel intuitive during demo. Relies too heavily on outside tools to be a complete solution. Too much social emphasis (just want a task+notes app, not a social network)
+- Too many animations and color, cluttered and busy design, did not feel intuitive during demo. Relies too heavily on outside tools to be a complete solution. Too much social emphasis (just wanted a notes app, not a social network)
 
 ####  [Taskade](https://www.taskade.com) 
-- Too many animations and color, cluttered and busy design, slow, did not feel intuitive during demo. Can't turn of stupid annoying "Social" sidebar
+- Too many animations and color, cluttered and busy design, slow, did not feel intuitive during demo. Can't turn of stupid annoying "Social" sidebar (just wanted a notes app, not a social network)
 
 ####  [NimbusNotes](https://nimbusweb.me/note.php) 
 - Data captivity, instant nope for me (Export notes only to PDF and HTML, import only from Evernote). No unified task view (only task list per note). They now have a task view, but it is only currently supported in the web client, making it useless to me personally. Also, even worse, they have "Tasks" as totally separate from checkboxes. Evernote is another offender in this regard. The idea of checkboxes being different than tasks makes zero sense to me. Didn't waste anymore time reviewing 
