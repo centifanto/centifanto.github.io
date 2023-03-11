@@ -8,17 +8,13 @@ As I decided to start researching for a solution, I also grew annoyed with the "
 
 Enter Amplenote a little over year ago. I thought I needed an all-in-one system that enabled my brain to empty itself quickly, and then transform the brain dump information rapidly and seamlessly to a useful task or note without friction. I had zero interest in multiple apps since I thought too much might get lost in the shuffle of multiple sources of information between note and tasks apps. So I started dumping information in, developing quite the effective workflow. And the Amplenote community was really great; small, growing, dev team and founder very responsive and helpful. And while it was initially a great Task+Note system, it quickly showed itself inadequate for my needs.
 
-Long story short, I am now all in on [Obsidian](https://obsidian.md) for my notes/knowledge management, and [Todoist](https://todoist.com/) for my tasks. I will be writing separate blog posts for my reasons on using both. This current post is just to detail some of the issues I have found with the other note apps out there, and since everyone has different requirements, you might disagree or maybe find it helpful.
-
 I have realized while having my notes and tasks in one place seems like a good idea, it actually often confuses my brain. Is it a project note or a small note? Personal or work? If a project note, do I put the tasks in the note or create a separate task note for the project note? How will I find the tasks if they're buried a large note? What if I moved that note and forget my tasks are in there? I am sure to others it's not a brain breaking issue, but it got overwhelming for me.
 
 Also, in the list below, you will see some apps that try to do both and fail miserably, making them worse than just a pen and paper IMO. And some of them don't even have E2EE on the notes, so all my sensitive notes/data is potentially exposed if a hacker or disgruntled employee wanted to take a peek. Hence I am now strongly convinced in the separation of my sensitive/valuable notes and my relatively non-sensitive tasks.
 
 Lastly, I realized how much I appreciated local file control of these sensitive and valuable notes, which really cuts out a lot of the apps below.
 
-So anyways, onto the list.
-
-*NOTE: Anything idiotically restricted to Apple, e.g. Drafts, Craft, Roam, Bear etc, I automatically ignore*
+Long story short, I am now all in on [Obsidian](https://obsidian.md) for my notes/knowledge management, and [Todoist](https://todoist.com/) for my tasks. I will be writing separate blog posts for my reasons on using both. This current post is just to detail some of the issues I have found with the other note apps out there, and since everyone has different requirements, you might disagree or maybe find it helpful. So, onto the list.
 
 # Previous two note apps I used
 
@@ -55,7 +51,7 @@ Very essential for writers/researchers to have multiple notes open for context a
 - Lack of good themes. I dislike any colors besides grays and blacks in my software, however all of Amplenote's themes are littered with different colors. 
 - Calendar integration is a feature they advertise, but not only was it useless for me since I don't use Google or Outlook calendars, but the UI in Amplenote was not pleasant to use if I want to use that by itself. Just recently (May of 2022), they finally updated the mobile app to have a month view, but it is barely useable. I realized I actually dislike combing tasks with appointments in a calendar. I want those separate. Example task would be doing dishes. And example appointment would be going to the dentist. Having both of these types smashed into one calendar and micromanaging my day down to 15 minute blocks is claustrophobic for me. I prefer keeping my Exchange calendar for hard appointments, and then in a separate system have tasks I schedule for days, not specific times. This enables me to be flexible with my tasks, knowing I can do them anytime doing the day, and if I need to I can push to tomorrow. Instead of times, I use Todoist's 4 levels or priority. I feel this is a better way to slot tasks into my day around my hard appointments.
 - This item is a bit hard to explain and very subjective, but the reliance on traditional tagging in the side bar is limiting IMO. It forces you to categorize notes (especially since their search doesn't work well). This makes you constantly worried about having created something but forgot to tag it for later use. They call backlinking, "inline tags", where a note is the tag. In Obsidian, backlinks are the focus instead of traditional tags. In fact you don't even need to use traditional tags in Obsidian. This is really important for the concept of linking information, and it shines in the graph view. You can then take highly backlinked notes and create MOCs. You can pin notes as MOCs in Amplenote, but really the system is encouraging you to tag/categorize instead of backlink. 
-	- In [[Obsidian]] you can either search for note titles, or an exact and comprehensive search. And this enables you to just dump all your files in a massive folder without trying to organize, as the search or backlinking will enable you to quickly find what you need. 
+	- In Obsidian you can either search for note titles, or an exact and comprehensive search. And this enables you to just dump all your files in a massive folder without trying to organize, as the search or backlinking will enable you to quickly find what you need. 
 	- Obsidian title search has most recent titles which is awesome when moving between notes.
 - No native desktop apps, only PWA
 - No multi/bulk select of notes
@@ -133,3 +129,5 @@ This app is similar to Workflowy, with some additional cons.
 
 #### [Simplenotes](https://simplenote.com) 
 - Way too simple
+
+#### *NOTE: Anything idiotically restricted to Apple, e.g. Drafts, Craft, Roam, Bear etc, I automatically ignore*
