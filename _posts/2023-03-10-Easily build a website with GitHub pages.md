@@ -22,8 +22,8 @@ Modified the `config.yml` from this:
 jekyll-archives:
   enabled: [categories,tags]
   layouts:
-	category: category
     tag: tag
+    category: category
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
@@ -62,7 +62,7 @@ Now onto the reason to do all of this: posting content. [This page](https://chir
 - Tags need to be lowercase, and can be Obsidian nested style with a `/`, or just single string. I prefix all of my tags with `blog`, so in Obsidian my blog post tags don't clutter up my personal note tags.
 
 Example:
-```
+```yaml
 ---
 title: New post
 tags: [blog/obsidian_nested,regular_tag]
