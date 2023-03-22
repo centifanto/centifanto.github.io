@@ -17,7 +17,7 @@ tags: [blog/template]
 {{date}}-title
 ```
 
-I then cut the populated date and add a headline to the title i.e. `2023-03-22-How I write blog posts`, and add appropriate tags. Note, I prefix all of my blog tags with `blog`, so that they stay separate from my main tag set. In Obsidian, I don't use tags like I do on the website. So for instance the tag `Obsidian` would not be a tag inside of Obsidian, it would instead be it's own note, which I call a tagnote. You can read my [how I use Obsidian](/posts/Why-and-how-I-use-Obsidian) post to learn more about this. Anyways, it'd look like this:
+I then cut the populated date and add a headline to the title i.e. `2023-03-22-How I write blog posts`, and add appropriate tags. Note, I prefix all of my blog tags with `blog`, so that they stay separate from my main tag set. In Obsidian, I don't use tags like I do on the website. So for instance the tag `Obsidian` would not be a tag inside of Obsidian, it would instead be it's own note, which I call a tagnote. You can read my how I use Obsidian post to learn more about this. Anyways, it'd look like this:
 ```YAML
 2023-03-22-How I write blog posts
 ---
