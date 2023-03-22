@@ -16,7 +16,7 @@ Lastly, I realized how much I appreciated local file control of these sensitive 
 
 Long story short, I am now all in on [Obsidian](https://obsidian.md) for my notes/knowledge management, and [Todoist](https://todoist.com/) for my tasks. I will be writing separate blog posts for my reasons on using both. This current post is just to detail some of the issues I have found with the other note apps out there, and since everyone has different requirements, you might disagree or maybe find it helpful. So, onto the list.
 
-# Previous two note apps I used
+## Previous two note apps I used
 
 #### [Amplenote](https://www.amplenote.com)
 
@@ -61,7 +61,7 @@ Very essential for writers/researchers to have multiple notes open for context a
 #### [Notion](https://www.notion.so) 
 Only online. Bloated and slow. Zero task management option without extensive, janky, manually built, sluggish database templates. Database exports not usable outside Notion. No E2EE option. Android data manipulation/editing severely limited in functionality. No MFA/2FA/TOTP
 
-# Obsidian competitors
+## Obsidian competitors
 Emphasize local file control
 
 #### [Logseg](https://logseq.com/) 
@@ -73,7 +73,7 @@ The only true competitor to Obsidian, and if wasn't an outliner/bullet based, I 
 ####  [Standard Notes](https://standardnotes.com) 
 - Less powerful knockoff of Obsidian
 
-# Outliner/bullet based apps. 
+## Outliner/bullet based apps. 
 No pure text, always tied to a bullet. These always feels cluttered/messy to me (especially annoying when trying to write a longform document but are broken up by endless bullets). Instant no go for me. If this happens to be your preference, there were still some issues with  that I noticed
 
 #### [Workflowy](https://workflowy.com/b/) 
@@ -88,7 +88,7 @@ This app is similar to Workflowy, with some additional cons.
 
 #### Already mentioned Logseq above
 
-# Others
+## Others
 Main issue for all of them is no local file control, but if that's not a concern to you, here is a list of issues I found with them
 
 #### [Notesnook](https://notesnook.com)
