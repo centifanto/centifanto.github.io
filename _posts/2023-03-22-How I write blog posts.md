@@ -2,7 +2,7 @@
 title: How I write blog posts
 tags: [blog/obsidian,blog/website,blog/github]
 ---
-I have a folder in Obsidian that house my blog posts. Contains the following categories:
+I have a folder in Obsidian that house my blog posts. Contains the following sub folders:
 - Backlog = single ideas, half written/shelved posts
 - In progress = actively writing
 - Published = finished and pushed to GitHub
