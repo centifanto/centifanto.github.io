@@ -7,7 +7,7 @@ I have a folder in Obsidian that house my blog posts. Contains the following sub
 - In progress = actively writing
 - Published = finished and pushed to GitHub
 
-If I have a new idea, I create a note and put it in the `backlog` folder. If I want to start writing right away, and hit `Ctrl+p`, then "Insert template>blog template", and move to `in progress` folder. This my template that contains the metadata fields needed, along with the `\{{ date }}` field that auto populates and is needed in the title for the blogging system. It looks like this
+If I have a new idea, I create a note and put it in the `backlog` folder. If I want to start writing right away, and hit `Ctrl+p`, then "Insert template>blog template", and move to `in progress` folder. This my template that contains the metadata fields needed, along with the `{ { date } }` field that auto populates and is needed in the title for the blogging system. It looks like this
 ```
 ---
 title: 
