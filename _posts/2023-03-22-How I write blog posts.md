@@ -2,6 +2,8 @@
 title: How I write blog posts
 tags: [blog/obsidian,blog/website,blog/github]
 ---
+Now that I've [migrated to GitHub Pages](/posts/Easily-build-a-website-with-GitHub-pages/), here is my process for writing blog posts.
+
 I have a folder in Obsidian that house my blog posts. Contains the following sub folders:
 - Backlog = single ideas, half written/shelved posts
 - In progress = actively writing
@@ -30,4 +32,4 @@ Then I write the post content, add links to other applicable blog posts with `Ct
 
 Next I copy the file from my Obsidian vault to my local repo `_posts` dir. Commit and push, GitHub builds the page. Done
 
-Note, I do the above copy step so I can have my blog content searchable within my Vault for backlinking, knowledge management, and ownership of my content. You can have your vault live in your local repo, and add dirs to the `.gitignore` so they don't get pushed, but that is too risky for me, as I do not ever want my personal notes accidently committed to version control history. There is a couple alternatives I found that add local watcher scripts to monitor your specific blog folder in your vault that then copies over, but it's a fair amount of work to setup, plus I like to have control over every step, and copying a single markdown file is quick and easy. Less things to break IMO. I do DevOps for a living, I don't need my bloging process overly complicated. 
+Note, I do the above copy step so I can have my blog content searchable within my Vault for backlinking, knowledge management, and ownership of my content. You can have your vault live in your local repo, and add dirs to the `.gitignore` so they don't get pushed, but that is too risky for me, as I do not ever want my personal notes accidently committed to version control history. There is a couple alternatives I found that add local watcher scripts to monitor your specific blog folder in your vault that then copies over, but it's a fair amount of work to setup, plus I like to have control over every step, and copying a single markdown file is quick and easy. Less things to break IMO. I am DevOps engineer during the day, I don't need my blogging process overly complicated. 
