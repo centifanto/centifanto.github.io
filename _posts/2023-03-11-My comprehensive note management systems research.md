@@ -20,11 +20,11 @@ Long story short, I am now all in on [Obsidian](https://obsidian.md) for my note
 
 ### [Amplenote](https://www.amplenote.com)
 
-##### No trash can
-If I am writing important notes or content in my knowledge management system, and accidently delete it, it's gone forever. There are a couple workarounds, but that is unacceptable to the value I place on my notes, especially my personal writing and longform content. Priceless amount of time and energy put into them, and the fact I wouldn't be able to recover them was too much for me to compromise on.
-
 ##### No local file control
 I realized how much this meant to me when using Obsidian. The security of having my own backups and control of my data is massive. Also, Amplenote would auto archive notes past 30 days. This was very frustrating. There was an option to check "do not archive" on a single note, but there is no way I am doing that for all of my notes. It should be a global option.
+
+##### No trash can
+If I am writing important notes or content in my knowledge management system, and accidently delete it, it's gone forever. There are a couple workarounds, but that is unacceptable to the value I place on my notes, especially my personal writing and longform content. Priceless amount of time and energy put into them, and the fact I wouldn't be able to recover them was too much for me to compromise on.
 
 ##### Search is completely useless IMHO. 
 Search is the lifeline of a productivity app, especially in regards to knowledge management. But no matter how I searched for a keyword, I inevitably either couldn't get the exact match I was looking for, causing me to manually try and remember which note I put the item in, or even more aggravating, when it did happen to find the keyword, it wouldn't highlight or take you to that section in the note. I would have to manually read through the whole note to find it. 
@@ -61,22 +61,35 @@ Very essential for writers/researchers to have multiple notes open for context a
 ### [Notion](https://www.notion.so) 
 Only online. Bloated and slow. Zero task management option without extensive, janky, manually built, sluggish database templates. Database exports not usable outside Notion. No E2EE option. Android data manipulation/editing severely limited in functionality. No MFA/2FA/TOTP
 
+# Obsidian competitors
+Emphasize local file control
+
+#### [Logseg](https://logseq.com/) 
+The only true competitor to Obsidian, and if wasn't an outliner/bullet based, I would have given it more time. Also, no mobile app, which is a big deal for me as I write and edit notes on my phone constantly.
+
+#### [Joplin](https://joplinapp.org) 
+- Ugly, beta feeling knockoff of Obsidian
+
+####  [Standard Notes](https://standardnotes.com) 
+- Less powerful knockoff of Obsidian
+
 # Outliner/bullet based apps. 
 No pure text, always tied to a bullet. These always feels cluttered/messy to me (especially annoying when trying to write a longform document but are broken up by endless bullets). Instant no go for me. If this happens to be your preference, there were still some issues with  that I noticed
 
-#### [Logseg](https://logseq.com/) 
-If wasn't an outliner, I would have given it more time. Also, no mobile app, which is a big deal for me as I write and edit notes on my phone constantly.
-
 #### [Workflowy](https://workflowy.com/b/) 
-Tries to be a outliner note and task app, but essentially non existent task management (no unified task view, no auto clearing of tasks after checking)
+Tries to be a outliner note and task app, but essentially non existent task management (no unified task view, no auto clearing of tasks after checking). No local file control
 
 #### [Dynalist](https://dynalist.io/) 
 This app is similar to Workflowy, with some additional cons.
 -   Encourages folder organization instead of tags for grouping notes (vastly inferior, and rigid, way of grouping notes). Dynalist tags are half-baked inclusion into the system IMO
 -   Tasks do not clear when checked
 -   Plain text and OPML for export instead of Markdown and YAML like Amplenote
+- No local file control
+
+#### Already mentioned Logseq above
 
 # Others
+Main issue for all of them is no local file control, but if that's not a concern to you, here is a list of issues I found with them
 
 #### [Notesnook](https://notesnook.com)
 - Notebook/folder based structure instead of tags
@@ -87,7 +100,8 @@ This app is similar to Workflowy, with some additional cons.
 - No unified task view - more of a notes app than a task management app
 
 #### [Supernotes](https://supernotes.app)
-- No mobile apps, does not work offline
+- Does not work offline
+- No mobile apps
 - No unified task view - more of a notes app than a task management app
 - Personal preference: card [hierarchy](https://youtu.be/Vj6MkLc8utI) does not feel intuitive to me. Friction/confusion just to find the parent cards, and their restricting of allowing cards to stay in sidebar without opening said card is constricting to me. In fact, Tobias even says "this is annoying" in a [YouTube walkthrough video](https://youtu.be/Vj6MkLc8utI?t=185) (timestamped to comment in video) but justifies this by saying it keeps the sidebar from being cluttered. I completely disagree and dislike function restrictions like this: if I want all of my parent cards "cluttering" (IMO this is not true) my sidebar, I should be able to. Especially considering the price they are asking
 - Above average monthly price for "Unlimited", "Starter" only allows a measly 40 cards.
@@ -119,13 +133,7 @@ This app is similar to Workflowy, with some additional cons.
 - Too many animations and color, cluttered and busy design, slow, did not feel intuitive during demo. Can't turn of stupid annoying "Social" sidebar (just wanted a notes app, not a social network)
 
 ####  [NimbusNotes](https://nimbusweb.me/note.php) 
-- Data captivity, instant nope for me (Export notes only to PDF and HTML, import only from Evernote). No unified task view (only task list per note). They now have a task view, but it is only currently supported in the web client, making it useless to me personally. Also, even worse, they have "Tasks" as totally separate from checkboxes. Evernote is another offender in this regard. The idea of checkboxes being different than tasks makes zero sense to me. Didn't waste anymore time reviewing 
-
-####  [Standard Notes](https://standardnotes.com) 
-- Less powerful knockoff of Obsidian
-
-#### [Joplin](https://joplinapp.org) 
-- Ugly beta knockoff of Obsidian
+- Data captivity, instant nope for me (Export notes only to PDF and HTML, import only from Evernote). No unified task view (only task list per note). They now have a task view, but it is only currently supported in the web client, making it useless to me personally. Also, even worse, they have "Tasks" as totally separate from checkboxes. Evernote is another offender in this regard. The idea of checkboxes being different than tasks makes zero sense to me. Didn't waste anymore time reviewing
 
 #### [Simplenotes](https://simplenote.com) 
 - Way too simple
