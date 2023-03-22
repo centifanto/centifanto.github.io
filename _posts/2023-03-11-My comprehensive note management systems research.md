@@ -18,7 +18,7 @@ Long story short, I am now all in on [Obsidian](https://obsidian.md) for my note
 
 # Previous two note apps I used
 
-### [Amplenote](https://www.amplenote.com)
+#### [Amplenote](https://www.amplenote.com)
 
 ##### No local file control
 I realized how much this meant to me when using Obsidian. The security of having my own backups and control of my data is massive. Also, Amplenote would auto archive notes past 30 days. This was very frustrating. There was an option to check "do not archive" on a single note, but there is no way I am doing that for all of my notes. It should be a global option.
@@ -58,7 +58,7 @@ Very essential for writers/researchers to have multiple notes open for context a
 - No automatic scheduled backup to email (big deal since these notes are not local)
 - No 24 hour/military time was a big issue for me personally
 
-### [Notion](https://www.notion.so) 
+#### [Notion](https://www.notion.so) 
 Only online. Bloated and slow. Zero task management option without extensive, janky, manually built, sluggish database templates. Database exports not usable outside Notion. No E2EE option. Android data manipulation/editing severely limited in functionality. No MFA/2FA/TOTP
 
 # Obsidian competitors
