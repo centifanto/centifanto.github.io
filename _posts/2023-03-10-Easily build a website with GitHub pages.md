@@ -75,4 +75,4 @@ Placed my files in the `_posts` dir.
 # That's it!
 Pushed all of these changes and the blog was live. You can watch the pipeline build the site in the Actions tab. Feel free to comment below if you have questions or run into issues.
 
-
+Here is my [follow up post](/posts/How-I-write-blog-posts/) with my Obsidian workflow for creating the actual post files.
