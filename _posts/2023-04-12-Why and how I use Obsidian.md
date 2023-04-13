@@ -2,7 +2,7 @@
 title: Why and how I use Obsidian
 tags: [blog/obsidian,blog/pkm,blog/note-management,blog/task-management,]
 ---
-In my [previous post](/posts/My-comprehensive-note-management-systems-research/), I detailed all the research I have done over the last decade regarding note management systems. I have listed all the issues I found with them, and concluded in my choice of using [Obsidian](obsidian.md/). This post will detail all the massive benefits of using Obsidian, including my personal workflow and mentality of PKM (Personal Knowledge Management).
+In my [previous post](/posts/My-comprehensive-note-management-systems-research/), I detailed all the research I have done over the last decade regarding note management systems. I have listed all the issues I found with them, and concluded in my choice of using [Obsidian](https://obsidian.md). This post will detail all the massive benefits of using Obsidian, including my personal workflow and mentality of PKM (Personal Knowledge Management).
 
 ## Here are some high level reasons I chose Obsidian:
 - First, and most important, is my emphasis on local file control. Retaining ownership of my sensitive notes and hard work in crafting a second brain is super important. Obsidian is simply Markdown files, making this effortless. And even if local file control was not important, the lack of E2EE on most online note platforms means that my data could be exposed by a data breach or a disgruntled employee. Also, since it's local, easy to sync all your devices via [Syncthing](https://github.com/canton7/SyncTrayzor). This is what I use by the way, couldn't recommend it enough.
