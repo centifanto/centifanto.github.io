@@ -15,3 +15,5 @@ My technical expertise - as it relates to automation, architecture, design and s
 - Linux, Windows Server
 - Networking - route, switch, wireless
 - VoIP PBX, SIP trunking
+
+[https://linkedin.com/in/centifanto](https://www.linkedin.com/in/centifanto)
