@@ -5,8 +5,21 @@ tags: [blog/obsidian,blog/pkm,blog/note-management,blog/task-management,]
 In my [previous post](/posts/My-comprehensive-note-management-systems-research/), I detailed all the research I have done over the last decade regarding note management systems. I have listed all the issues I found with them, and concluded in my choice of using [Obsidian](https://obsidian.md). This post will detail all the massive benefits of using Obsidian, including my personal workflow and mentality of PKM (Personal Knowledge Management).
 
 ## Here are some high level reasons I chose Obsidian:
-- First, and most important, is my emphasis on local file control. Retaining ownership of my sensitive notes and hard work in crafting a second brain is super important. Obsidian is simply Markdown files, making this effortless. And even if local file control was not important, the lack of E2EE on most online note platforms means that my data could be exposed by a data breach or a disgruntled employee. Also, since it's local, easy to sync all your devices via [Syncthing](https://github.com/canton7/SyncTrayzor). This is what I use by the way, couldn't recommend it enough.
-- The flexibility of how I choose to use backlinking and tagging is great
+First, and most important, is my emphasis on local file control falls right in line with their ethos. Retaining ownership of my sensitive notes and hard work in crafting a second brain is super important. Obsidian is simply Markdown files, making this effortless. 
+
+On their website, this quote really stands out to me that encapsulates what type of company I would like to support:
+> Notes for your grandchildren
+> In our age when cloud services can [shut](https://techcrunch.com/2013/07/31/evernote-competitor-catch-com-shuts-down-its-note-taking-apps-company-heading-in-different-direction/) [down](https://www.theverge.com/2014/5/22/5741602/one-time-evernote-pinterest-rival-springpad-to-close-its-doors), [get](https://gadgets.ndtv.com/apps/news/microsoft-to-do-new-features-wunderlist-shuts-down-2224833) [bought](https://www.theverge.com/2012/3/12/2865638/twitter-acquires-posterous-blogging-platform), or [change privacy policy](https://techcrunch.com/2016/12/14/evernotes-new-privacy-policy-allows-employees-to-read-your-notes/) any day, the last thing you want is proprietary format and data lock-in.
+> With Obsidian, **your data sits in a local folder**. Never leave your life's work held hostage in the cloud again. > 
+
+Also, their UI design and messaging I personally really like. I don't think I would change a single thing. 
+
+Lastly, they're free to use, which is amazing for software this powerful! But if you enjoy it, I would highly encourage you to support their work by purchasing the one-time payment, $25 Catalyst package. I believe the future of life enriching software lies on consumers supporting ventures like Obsidian.
+
+## Further thoughts
+- And even if local file control was not important, the lack of E2EE on most online note platforms means that my data could be exposed by a data breach or a disgruntled employee.
+- Also, since it's local, easy to sync all your devices via [Syncthing](https://github.com/canton7/SyncTrayzor). This is what I use by the way, couldn't recommend it enough.
+- The flexibility of how I choose to organize my notes is the best I have seen.
 - Their [Markdown implementation](https://help.obsidian.md/How+to/Format+your+notes) is hands down the best way to write, format and organize notes IMO. All of my blog posts are written inside Obsidian, and published via [GitHub pages and Jekyll](https://centifanto.net/posts/Easily-build-a-website-with-GitHub-pages/) I wrote about previously
 - If I have a specific customization in mind, their [extensions/plugin library](https://obsidian.md/plugins) is excellent. Good example is [Readwise integration](https://help.readwise.io/article/125-how-does-the-readwise-to-obsidian-export-integration-work), where all my highlights can be pulled into my second brain in Obsidian. This is not just limited to articles or books. Anything that Readwise integrates with, such as podcasts or manual scanning of a physical books. I plan on writing a dedicated blog post about this
 - [Graph view](https://help.obsidian.md/Plugins/Graph+view) is very useful in understanding how knowledge ties together
@@ -14,6 +27,8 @@ In my [previous post](/posts/My-comprehensive-note-management-systems-research/)
 
 ## Tags vs Backlinks vs Folders
 The great debate. Which one should you use? There are no necessarily wrong answers, but I believe each one has it's strength if used properly. Here's my definition and use cases for each.
+
+*Quick note: Obsidian really shines when backlinking is prioritized. I use the other two options  in moderation, but primarily lean on backlinks to write [Zettlekasten](https://zettelkasten.de/introduction/) style notes. Game changer with this mindset when crafting a second brain.*
 
 #### Tags
 *Example: `#cloud`
