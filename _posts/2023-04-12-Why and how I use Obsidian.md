@@ -31,7 +31,7 @@ The great debate. Which one should you use? There are no necessarily wrong answe
 
 ## Folder structure
 Here is my current structure (obviously just a demo vault, I do not want to make my real vault public)
-![](/assests/img/obsidian_folder_structure.png)
+![Folder structure](/assets/img/obsidian_folder_structure.png)
 
 Here is the explanation of each
 - `0INBOX` = default location when note is created. I regularly clean this out and process each note
