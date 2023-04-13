@@ -59,13 +59,13 @@ Very essential for writers/researchers to have multiple notes open for context a
 - No 24 hour/military time was a big issue for me personally
 
 #### [Notion](https://www.notion.so) 
-Only online. Bloated and slow. Zero task management option without extensive, janky, manually built, sluggish database templates. Database exports not usable outside Notion. No E2EE option. Android data manipulation/editing severely limited in functionality. No MFA/2FA/TOTP
+Only online. Bloated and slow. Zero task management option without extensive, manually built, sluggish database templates. Database exports not usable outside Notion. No E2EE option. Android data manipulation/editing severely limited in functionality. No MFA/2FA/TOTP
 
 ## Obsidian competitors
-Emphasize local file control
+*Main emphasis being local file control*
 
 #### [Logseg](https://logseq.com/) 
-The only true competitor to Obsidian, and if wasn't an outliner/bullet based, I would have given it more time. Used to not have a mobile app, which was a big deal for me as I write and edit notes on my phone constantly. I did test the mobile app but was not impressed, to say the least. YMMV
+The only true competitor to Obsidian, and if wasn't an outliner/bullet based, I would have given it more time. When testing awhile back they did not have a mobile app, which was a big deal for me as I write and edit notes on my phone constantly. I did try it out but was not impressed, to say the least. YMMV
 
 #### [Joplin](https://joplinapp.org) 
 - Ugly, beta feeling knockoff of Obsidian
