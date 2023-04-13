@@ -65,7 +65,7 @@ Only online. Bloated and slow. Zero task management option without extensive, ja
 Emphasize local file control
 
 #### [Logseg](https://logseq.com/) 
-The only true competitor to Obsidian, and if wasn't an outliner/bullet based, I would have given it more time. Also, no mobile app, which is a big deal for me as I write and edit notes on my phone constantly.
+The only true competitor to Obsidian, and if wasn't an outliner/bullet based, I would have given it more time. Used to not have a mobile app, which was a big deal for me as I write and edit notes on my phone constantly. I did test the mobile app but was not impressed, to say the least. YMMV
 
 #### [Joplin](https://joplinapp.org) 
 - Ugly, beta feeling knockoff of Obsidian
@@ -73,6 +73,7 @@ The only true competitor to Obsidian, and if wasn't an outliner/bullet based, I 
 ####  [Standard Notes](https://standardnotes.com) 
 - Less powerful knockoff of Obsidian
 
+##### *NOTE: Main issue for the rest below is no local file control, but of course there are many other issues for me personally*
 ## Outliner/bullet based apps. 
 No pure text, always tied to a bullet. These always feels cluttered/messy to me (especially annoying when trying to write a longform document but are broken up by endless bullets). Instant no go for me. If this happens to be your preference, there were still some issues with  that I noticed
 
@@ -89,7 +90,6 @@ This app is similar to Workflowy, with some additional cons.
 #### Already mentioned Logseq above
 
 ## Others
-Main issue for all of them is no local file control, but if that's not a concern to you, here is a list of issues I found with them
 
 #### [Notesnook](https://notesnook.com)
 - Notebook/folder based structure instead of tags
@@ -108,7 +108,13 @@ Main issue for all of them is no local file control, but if that's not a concern
 - No E2EE
 
 #### [Walling](https://walling.app) 
-- No unified task view. Unique design/function of walls>bricks>sections but feels beta IMO, I am personally not a fan of the design (too busy), different size and color bricks with image previews distract my brain from actual data. Cannot drag and drop bricks to new walls (have to use menu). No backlinking or tagging to tie different bricks/walls together. Does not seem to work offline very well. Slow Android app. No indication of E2EE
+- No unified task view
+- Unique design/function of walls>bricks>sections but feels beta IMO, I am personally not a fan of the design (too busy) as different size and color bricks with image previews distract my brain from actual data
+- Cannot drag and drop bricks to new walls (have to use menu)
+- No backlinking or tagging to tie different bricks/walls together
+- Does not seem to work offline very well
+- Slow Android app
+- No indication of E2EE
 
 #### [Upnote](https://getupnote.com)
 - "Task view" is a not very useful, just a static list of notes with tasks that you have to go into each note to view tasks
@@ -127,13 +133,15 @@ Main issue for all of them is no local file control, but if that's not a concern
 - I don't trust the company due to past decisions, online only unless paying for the product, too expensive for "Personal" plan, cluttered/sluggish design IMO, duplicate "tasks" and "checklists" are confusing
 
 #### [Clickup](https://clickup.com) 
-- Too many animations and color, cluttered and busy design, did not feel intuitive during demo. Relies too heavily on outside tools to be a complete solution. Too much social emphasis (just wanted a notes app, not a social network)
+- More of project management for documents and tasks than a note app. Too many animations and color, cluttered and busy design, did not feel intuitive during demo. Too much social emphasis (just wanted a notes app, not a social network)
 
 ####  [Taskade](https://www.taskade.com) 
-- Too many animations and color, cluttered and busy design, slow, did not feel intuitive during demo. Can't turn of stupid annoying "Social" sidebar (just wanted a notes app, not a social network)
+- Too many animations and color, cluttered and busy design, slow, did not feel intuitive during demo. Can't turn off the annoying "Social" sidebar (just wanted a notes app, not a social network)
 
 ####  [NimbusNotes](https://nimbusweb.me/note.php) 
-- Data captivity, instant nope for me (Export notes only to PDF and HTML, import only from Evernote). No unified task view (only task list per note). They now have a task view, but it is only currently supported in the web client, making it useless to me personally. Also, even worse, they have "Tasks" as totally separate from checkboxes. Evernote is another offender in this regard. The idea of checkboxes being different than tasks makes zero sense to me. Didn't waste anymore time reviewing
+- Data captivity, instant nope for me (Export notes only to PDF and HTML, import only from Evernote)
+- No unified task view (only task list per note)
+- They now have a task view, but it is only currently supported in the web client, making it useless to me personally. Also, even worse, they have "Tasks" as totally separate from checkboxes. Evernote is another offender in this regard. The idea of checkboxes being different than tasks makes zero sense to me
 
 #### [Simplenotes](https://simplenote.com) 
 - Way too simple
