@@ -33,12 +33,12 @@ The great debate. Which one should you use? There are no necessarily wrong answe
 - Used sparingly, and never inline
 
 #### Backlinks aka "tagnotes"
-*Example*: `AWS`
+*Example*: `[[AWS]]`
 - If a proper noun or a subject that can be referenced later and expounded upon. High probability they might become a MOC
 - The forward and back links are very powerful when developing thoughts. Will have more content written on them in the future, good chance they might become a MOC
 
 #### Folders
-*Example*: `Cloud project 1` or `Inbox`
+*Example*: `/Cloud project 1` or `/Inbox`
 - High level process or pinned active project
 - Have more than a couple notes that are related and are being actively worked on
 - Try to move them into the `nodes` folder eventually after the project is finished
@@ -85,9 +85,11 @@ I use two separate workspaces since the Android version doesn't always play nice
 - Set obsidian workspace to `obsidian.mobile`
 
 #### Ignore patterns for Syncthing
-Speaking of workspaces, there are usually conflicts as Obsidian tries to update them so I don't back them up
+Speaking of workspaces, there are usually conflicts as Obsidian tries to update them so I don't back them up. The only bummer is that it doesn't keep open notes synced.
 ```
 \.obsidian
 \.obsidian.desktop
 \.obsidian.mobile
 ```
+
+As always, feel free to leave a comment or feedback.
