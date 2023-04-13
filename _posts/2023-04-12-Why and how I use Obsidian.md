@@ -4,7 +4,7 @@ tags: [blog/obsidian,blog/pkm,blog/note-management,blog/task-management,]
 ---
 In my [previous post](/posts/My-comprehensive-note-management-systems-research/), I detailed all the research I have done over the last decade regarding note management systems. I have listed all the issues I found with them, and concluded in my choice of using [Obsidian](https://obsidian.md). This post will detail all the massive benefits of using Obsidian, including my personal workflow and mentality of PKM (Personal Knowledge Management).
 
-## Here are some high level reasons I chose Obsidian:
+## Here are some high level reasons I chose Obsidian
 First, and most important, is my emphasis on local file control falls right in line with their ethos. Retaining ownership of my sensitive notes and hard work in crafting a second brain is super important. Obsidian is simply Markdown files, making this effortless. 
 
 On their website, this quote really stands out to me that encapsulates what type of company I would like to support:
@@ -15,8 +15,7 @@ Also, their UI design and messaging I personally really like. I don't think I wo
 Lastly, they're free to use, which is amazing for software this powerful! But if you enjoy it, I would highly encourage you to support their work by purchasing the one-time payment, $25 Catalyst package. I believe the future of life enriching software lies on consumers supporting ventures like Obsidian.
 
 ## Further thoughts
-- And even if local file control was not important, the lack of E2EE on most online note platforms means that my data could be exposed by a data breach or a disgruntled employee.
-- Also, since it's local, easy to sync all your devices via [Syncthing](https://github.com/canton7/SyncTrayzor). This is what I use by the way, couldn't recommend it enough.
+- Since it's local, easy to sync all your devices via [Syncthing](https://github.com/canton7/SyncTrayzor). This is what I use by the way, couldn't recommend it enough.
 - The flexibility of how I choose to organize my notes is the best I have seen.
 - Their [Markdown implementation](https://help.obsidian.md/How+to/Format+your+notes) is hands down the best way to write, format and organize notes IMO. All of my blog posts are written inside Obsidian, and published via [GitHub pages and Jekyll](https://centifanto.net/posts/Easily-build-a-website-with-GitHub-pages/) I wrote about previously
 - If I have a specific customization in mind, their [extensions/plugin library](https://obsidian.md/plugins) is excellent. Good example is [Readwise integration](https://help.readwise.io/article/125-how-does-the-readwise-to-obsidian-export-integration-work), where all my highlights can be pulled into my second brain in Obsidian. This is not just limited to articles or books. Anything that Readwise integrates with, such as podcasts or manual scanning of a physical books. I plan on writing a dedicated blog post about this
@@ -29,15 +28,17 @@ The great debate. Which one should you use? There are no necessarily wrong answe
 *Quick note: Obsidian really shines when backlinking is prioritized. I use the other two options  in moderation, but primarily lean on backlinks to write [Zettlekasten](https://zettelkasten.de/introduction/) style notes. Game changer with this mindset when crafting a second brain.*
 
 #### Tags
-*Example: `#cloud`
+*Example*: `#cloud`
 - If it can group/bundle other notes, or a broad category
 - Used sparingly, and never inline
+
 #### Backlinks aka "tagnotes"
-*Example: `AWS`
+*Example*: `AWS`
 - If a proper noun or a subject that can be referenced later and expounded upon. High probability they might become a MOC
 - The forward and back links are very powerful when developing thoughts. Will have more content written on them in the future, good chance they might become a MOC
+
 #### Folders
-*Example: `Cloud project 1` or `Inbox`
+*Example*: `Cloud project 1` or `Inbox`
 - High level process or pinned active project
 - Have more than a couple notes that are related and are being actively worked on
 - Try to move them into the `nodes` folder eventually after the project is finished
