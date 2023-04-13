@@ -8,9 +8,7 @@ In my [previous post](/posts/My-comprehensive-note-management-systems-research/)
 First, and most important, is my emphasis on local file control falls right in line with their ethos. Retaining ownership of my sensitive notes and hard work in crafting a second brain is super important. Obsidian is simply Markdown files, making this effortless. 
 
 On their website, this quote really stands out to me that encapsulates what type of company I would like to support:
-> Notes for your grandchildren
-> In our age when cloud services can [shut](https://techcrunch.com/2013/07/31/evernote-competitor-catch-com-shuts-down-its-note-taking-apps-company-heading-in-different-direction/) [down](https://www.theverge.com/2014/5/22/5741602/one-time-evernote-pinterest-rival-springpad-to-close-its-doors), [get](https://gadgets.ndtv.com/apps/news/microsoft-to-do-new-features-wunderlist-shuts-down-2224833) [bought](https://www.theverge.com/2012/3/12/2865638/twitter-acquires-posterous-blogging-platform), or [change privacy policy](https://techcrunch.com/2016/12/14/evernotes-new-privacy-policy-allows-employees-to-read-your-notes/) any day, the last thing you want is proprietary format and data lock-in.
-> With Obsidian, **your data sits in a local folder**. Never leave your life's work held hostage in the cloud again. > 
+> Notes for your grandchildren. In our age when cloud services can shut down, get bought, or change privacy policy any day, the last thing you want is proprietary format and data lock-in. With Obsidian, your data sits in a local folder. Never leave your life's work held hostage in the cloud again.
 
 Also, their UI design and messaging I personally really like. I don't think I would change a single thing. 
 
