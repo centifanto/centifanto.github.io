@@ -182,35 +182,17 @@ compress_html:
 exclude:
   - "*.gem"
   - "*.gemspec"
-<<<<<<< HEAD
-=======
   - docs
->>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
   - tools
   - README.md
   - CHANGELOG.md
   - LICENSE
-<<<<<<< HEAD
-  - gulpfile.js
-  - node_modules
+  - rollup.config.js
   - package*.json
-
+  
 jekyll-archives:
   enabled: [tags]
   layouts:
     tag: tag
   permalinks:
     tag: /tags/:name/
-=======
-  - rollup.config.js
-  - package*.json
-
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
->>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
