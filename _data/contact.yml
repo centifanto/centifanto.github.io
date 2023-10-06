@@ -1,42 +1,18 @@
 #  The contact options.
 
-<<<<<<< HEAD
--
-  type: github
-  icon: 'fab fa-github'
--
-  type: twitter
-  icon: 'fab fa-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
-
-# Uncomment and complete the url below to enable more contact options
-# -
-#   type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-# -
-#   type: stack-overflow
-=======
-- type: github
-  icon: "fab fa-github"
-
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/centifanto'                  # Fill with your Linkedin homepage
+  
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+  
+- type: github
+  icon: "fab fa-github"
 
 - type: rss
   icon: "fas fa-rss"
@@ -47,11 +23,6 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-#
 # - type: stack-overflow
->>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
