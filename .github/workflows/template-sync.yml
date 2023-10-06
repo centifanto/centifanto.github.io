@@ -1,3 +1,4 @@
+name: "Sync parent template updates"
 on:
     # cronjob trigger
   # schedule:
