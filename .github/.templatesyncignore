@@ -1,4 +1,3 @@
-:!assets/lib/*
 :!_tabs/tags.md
 :!_tabs/about.md
 :!_data/share.yml
@@ -9,4 +8,5 @@
 :!.gitignore
 :!.github/workflows/pages-deploy.yml
 :!.editorconfig
+:!assets
 *
