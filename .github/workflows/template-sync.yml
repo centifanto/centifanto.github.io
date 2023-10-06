@@ -16,3 +16,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           source_repo_path: cotes2020/chirpy-starter
+          git_remote_pull_params: --allow-unrelated-histories --squash --strategy=recursive
