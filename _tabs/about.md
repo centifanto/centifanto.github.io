@@ -17,6 +17,3 @@ My technical expertise - as it relates to automation, architecture, design and s
 - VoIP PBX, SIP trunking
 
 [https://linkedin.com/in/centifanto](https://www.linkedin.com/in/centifanto)
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
