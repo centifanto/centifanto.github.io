@@ -3,7 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-<<<<<<< HEAD
 DevOps/Cloud Engineer. AWS Solutions Architect, A.A.S Network Technology, CCNA. Logic, honesty, and common sense are high priorities for me in my personal and professional life.
 
 My technical expertise - as it relates to automation, architecture, design and security
@@ -18,8 +17,3 @@ My technical expertise - as it relates to automation, architecture, design and s
 - VoIP PBX, SIP trunking
 
 [https://linkedin.com/in/centifanto](https://www.linkedin.com/in/centifanto)
-=======
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
->>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
