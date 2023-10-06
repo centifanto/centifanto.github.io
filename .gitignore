@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hidden files
 .*
 !.git*
@@ -19,3 +20,27 @@ Gemfile.lock
 # npm dependencies
 node_modules
 package-lock.json
+=======
+# Bundler cache
+.bundle
+vendor
+Gemfile.lock
+
+# Jekyll cache
+.jekyll-cache
+_site
+
+# RubyGems
+*.gem
+
+# NPM dependencies
+node_modules
+package-lock.json
+
+# IDE configurations
+.idea
+.vscode
+
+# Misc
+assets/js/dist
+>>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
