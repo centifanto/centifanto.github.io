@@ -12,18 +12,12 @@ baseurl: ""
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-<<<<<<< HEAD
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Denver
-=======
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
->>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-<<<<<<< HEAD
 title: centifanto.net # the main title
 
 tagline: # it will display as the sub-title
@@ -41,46 +35,17 @@ twitter:
 
 linkedin:
   username: centifanto
-=======
-title: Chirpy # the main title
-
-tagline: A text-focused Jekyll theme # it will display as the sub-title
-
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
-
-github:
-  username: github_username # change to your github username
-
-twitter:
-  username: twitter_username # change to your twitter username
->>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-<<<<<<< HEAD
   name: Isaiah Centifanto
   email: i.centifanto@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/centifanto_
+    - https://twitter.com/icentifanto
     - https://github.com/centifanto
     - https://www.linkedin.com/in/centifanto
-=======
-  name: your_full_name
-  email: example@domain.com # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
->>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
 
 google_site_verification: # fill in to your verification string
 
@@ -89,13 +54,10 @@ google_site_verification: # fill in to your verification string
 
 google_analytics:
   id: # fill in your Google Analytics ID
-<<<<<<< HEAD
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path: # the local PV cache data, friendly to visitors from GFW region
-=======
->>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
 
 # Prefer color scheme setting.
 #
@@ -108,11 +70,8 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-<<<<<<< HEAD
+
 theme_mode: dark # [light|dark]
-=======
-theme_mode: # [light|dark]
->>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -122,7 +81,6 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-<<<<<<< HEAD
 avatar: https://pbs.twimg.com/profile_images/1083580258966618112/f4M71SCV_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
@@ -137,22 +95,6 @@ comments:
   utterances:
     repo: centifanto/centifanto.github.io # <gh-username>/<repo>
     issue_term: pathname # < url | pathname | title | ...>
-=======
-avatar:
-
-# boolean type, the global switch for TOC in posts.
-toc: true
-
-comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-  # The active options are as follows:
-  disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-  # utterances settings › https://utteranc.es/
-  utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
->>>>>>> bcb2c56f84502ec60e946dc4f15b3f6e7fd6c6f4
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
