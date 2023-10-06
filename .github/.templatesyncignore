@@ -8,5 +8,4 @@
 :!.gitignore
 :!.github/workflows/pages-deploy.yml
 :!.editorconfig
-:!assets
 *
