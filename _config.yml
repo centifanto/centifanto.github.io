@@ -101,7 +101,7 @@ comments:
     repo_id: 'R_kgDOJAjoXQ'
     category: 'Comments'
     category_id: 'DIC_kwDOJAjoXc4CZ_Gy'
-    data_theme: "preferred_color_scheme"
+    data_theme: "dark"
     input_position: 'top'
     mapping: # optional, default to 'pathname'
     lang: # optional, default to the value of `site.lang`
