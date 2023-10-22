@@ -94,5 +94,5 @@ That means the $1700 price tag minus the above $800 leaves me me with a $900 fol
 ## Conclusion
 There you have it, the reasons I think OnePlus really nailed it with this device! And I am really excited to get my hands on it. If anything changes, or I have updates to add, I will make another post and link it here.
 
-Here's the screenshot of my receipt from the OnePlus store
-![Oneplus Open price breakdown](/assets/img/obsidian_folder_structure.png "Oneplus Open price breakdown")
+Here's the screenshot of my receipt from the OnePlus store:
+![Oneplus Open price breakdown](/assets/img/oneplus_open_price_breakdown.png)
