@@ -89,7 +89,7 @@ Final math:
 
 That means the $1700 price tag minus the above $800 leaves me me with a $900 foldable that is not only just on par with the competition, but as I laid out, IMO significantly better!
 
-![nacho](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG8wd2FhaG15cXZidThvc2NsaTB6MTVqYXE5dGJxY2RpYm8wdWE0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WJjLyXCVvro2I/giphy.gif
+![nacho](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG8wd2FhaG15cXZidThvc2NsaTB6MTVqYXE5dGJxY2RpYm8wdWE0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WJjLyXCVvro2I/giphy.gif)
 
 ## Conclusion
 There you have it, the reasons I think OnePlus really nailed it with this device! And I am really excited to get my hands on it. If anything changes, or I have updates to add, I will make another post and link it here.
