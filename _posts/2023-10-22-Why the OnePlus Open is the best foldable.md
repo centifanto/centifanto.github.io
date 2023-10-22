@@ -80,12 +80,10 @@ But throw in the discounts for pre-ordering and I will have gotten this device f
 - Free $180 1+ Buds Pro 2. So if I turn around and sell this for cheaper I could recoup some money.
 
 Final math:
--$200 off pre order
--$400 trade in
--$50 coupon
--$150 (rough estimate) to sell brand new buds on eBay or Swappa
-...........................
--$800 towards the price
+- -$200 off pre order
+- -$400 trade in
+- -$50 coupon
+- -$150 (rough estimate) to sell brand new buds on eBay or Swappa
 
 That means the $1700 price tag minus the above $800 leaves me me with a $900 foldable that is not only just on par with the competition, but as I laid out, IMO significantly better!
 
