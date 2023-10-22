@@ -1,5 +1,5 @@
 ---
-title: 2023-10-21-The current state of personal computation
+title: The current state of personal computation
 tags:
   - blog/technology
   - blog/android
@@ -21,7 +21,7 @@ Enter the OG Moto Droid from Verizon in 2009. Absolutely crazy hype. Commercials
 After a couple years, the iPhone started to catch up, and most importantly it was available on Verizon. So I switched. At first it was a great experience. The OS was way smoother, the App Store was a million miles ahead of the Android Market (before it was renamed to today's Play Store). And, the jailbreak scene was off the chains. You could modify any part of iOS. Apple didn't like this and started to crack down, making it more unstable and risky to jailbreak. More notably, Android phones seemed to start overtaking iPhones for features and customization. The Android Market exploded with apps, and you could find any style of Android that fitted your desired form factor and specs. 
 
 So I switched back to Android, and immediately felt back at home. I used Motorola, Samsung, LG and HTC phones (which also included some of the Google Nexus models) - (and briefly in 2017 the Essential phone) during a period of about 5 years. I finally landed on OnePlus, and haven't looked back. 
-See my next post for [why I think OnePlus makes the best Android phones, and why I think their foldable is the best one on the market(/posts/2023-10-22-Why-the-OnePlus-Open-is-the-best-foldable/.
+See my next post for [why I think OnePlus makes the best Android phones, and why I think their foldable is the best one on the market](/posts/Why-the-OnePlus-Open-is-the-best-foldable/).
 
 ## How folding phones are a game changer IMO
 

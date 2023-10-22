@@ -1,5 +1,5 @@
 ---
-title: 2023-10-22-Why the OnePlus Open is the best foldable
+title: Why the OnePlus Open is the best foldable
 tags:
   - blog/oneplus
   - blog/android
