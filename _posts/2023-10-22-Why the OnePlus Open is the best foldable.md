@@ -43,6 +43,7 @@ We now have, at least in the US market, 4 options. The Galaxy Fold, the Pixel Fo
 - The Galaxy is too narrow on the front display for normal usage IMO, especially typing, and the Pixel is too wide and short.
 - The US released Galaxy's are next to impossible to root, and the potentially rootable (not at all guaranteed) non-US models do not have all the necessary bands for US carriers.
 - The Pixel also has a poorly implemented hinge that doesn't lay flat and also shows a very large crease. The Galaxy has the latter issue as well, and additionally does not close completely tight, meaning their is a gap between the screens for dust and particles to enter.
+- The Pixel's Tensor chips are not great in my experience, as well as reviews. It is slower than the Snapdragons, and runs hotter. Most importantly for me, the radios in these devices are significantly worse when it comes to tower reception. When I briefly tried the Pixel 6, it would consistently get two less bars than my OnePlus 7T was getting, and that was same network, same location.
 
 ### Pros of the 1+ Open
 The 1+ Open does not share the above issues on the Galaxy and Pixel:
