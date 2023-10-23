@@ -47,7 +47,7 @@ The 1+ Open does not share the above issues on the Galaxy and Pixel:
 - It closes completely tight, and they even have small gaskets all the way around the screens. 
 - It lays completely flat.
 - There is a drastically reduced crease compared to the two prior phones.
-- And the hinge mechanism is not only rated for double the folds during it's lifetime, it has a better implemented mechanism that pops open and closed with the right amount of force and at the right angle.
+- And the hinge mechanism is not only rated for double the folds during it's lifetime, it has a better implemented mechanism that pops open and closed with the right amount of force and at the right angle. Additional note about the hinge, is the amount of engineering that apparently went into it, with significantly reduced part count, and unique metal alloys and carbon fiber to reduce weight while increasing strength.
 
 Other reasons I picked the 1+ implementation:
 - 16 GB of RAM and 512 GB storage at $1700, so you could consider this $220 cheaper than the equivalently spec'd Galaxy Fold 5 and Pixel Fold. And both of those only have 12GB of RAM. So no contest here! Excellent move here by 1+. This will be a multi tasking beast, and I think all folds need this minimum level of specs considering how it's meant to be used.
