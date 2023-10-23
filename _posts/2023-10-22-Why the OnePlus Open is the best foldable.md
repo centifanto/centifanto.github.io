@@ -58,7 +58,7 @@ Other reasons I picked the 1+ implementation:
 
 ### Cons of the 1+ Open
 The cons (one big, three insignificant) are:
-- No wireless charging. Huge bummer to me. And I don't buy 1+ excuse not to include it due to sizing or weight. I think it was a stupid decision of theirs....the competitors have it at this price point. Bad move by 1+.
+- No wireless charging. Huge bummer to me. And I don't buy 1+ excuse not to include it due to sizing or weight. I think it was a terrible decision of theirs....the competitors have it at this price point. Bad move by 1+.
 - Only IPX4, so rain or water splashes are ok. I am extremely careful with my devices, and I have never dropped my phone into water, so not a massive issue. Plus, the behind the scenes phone durability testing in the OnePlus labs show them spray high volumes of water at all angles and it still passes functionality tests. Good enough for me.
 - No stylus support. This is a small bummer to me, as I would like the option to use a pen with a device like this, but I don't do this with my current phones so I don't really know what I am missing. Although the settings do have an empty placeholder, so maybe this will come in a future update.
 - No Dex-like desktop feature. I honestly do not think the vast majority of people would buy a device like this just to plug it into a desk setup. It defeats the purpose to me. If I need to sit at a desk, I will be on a full computer. And even if I felt like I wanted to use a physical keyboard with a folding phone, I can do that without a desktop mode.
