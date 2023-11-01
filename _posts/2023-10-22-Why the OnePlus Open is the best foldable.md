@@ -31,7 +31,7 @@ I felt like this was the pinnacle of my smartphone experience, no exaggeration. 
 
 For a brief list of cons:
 - Cameras have never been their strong suite
-- Sometimes they leave features off of the phone that make you scratch your head why
+- Sometimes they leave features off of the phone that make you scratch your head (e.g. no wireless charging or removing alert slider for just one generation)
 - Support is mediocre, outsourced with limited English language ability
 - Repair centers are slow with turnarounds - took of 3 weeks to get a cracked screen replaced
 
