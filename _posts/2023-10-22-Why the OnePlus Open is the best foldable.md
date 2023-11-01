@@ -5,10 +5,9 @@ tags:
   - blog/android
   - blog/technology
 ---
-UPDATE 11/1/23: Have been using the phone for 4 days, and this device is very impressive! Surpasses my expectations in many areas, extremely happy with my purchase. I will be doing a follow up post with my impressions and revised opinions, and will link it back here. 
+UPDATE 11/1/23: Have been using the phone for 4 days, and this device is very impressive! Surpasses my expectations in many areas, extremely happy with my purchase. I will be doing a follow up post with my impressions and revised opinions, and will link it back here. Also, check out [this 10 part series](https://community.oneplus.com/thread/1427771383936450561) that OnePlus posted about different engineering aspects of the Open. Very fascinating inside look at the effort and attention to detail they put into this device. Really impressive, especially the hinge and screen technology.
 
-Also, check out [this 10 part series](https://community.oneplus.com/thread/1427771383936450561) that OnePlus posted about different engineering aspects of the Open. Very fascinating inside look at the effort and attention to detail they put into this device. Really impressive, especially the hinge and screen technology.
-----
+---
 
 In my post on the [current state of personal computation](/posts/The-current-state-of-personal-computation/), I mentioned that I landed on OnePlus as my Android OEM of choice. Here is the flushed out reasons for this decision.
 ## Why OnePlus?
