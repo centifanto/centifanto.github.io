@@ -5,6 +5,11 @@ tags:
   - blog/android
   - blog/technology
 ---
+UPDATE 11/1/23: Have been using the phone for 4 days, and this device is very impressive! Surpasses my expectations in many areas, extremely happy with my purchase. I will be doing a follow up post with my impressions and revised opinions, and will link it back here. 
+
+Also, check out [this 10 part series](https://community.oneplus.com/thread/1427771383936450561) that OnePlus posted about different engineering aspects of the Open. Very fascinating inside look at the effort and attention to detail they put into this device. Really impressive, especially the hinge and screen technology.
+----
+
 In my post on the [current state of personal computation](/posts/The-current-state-of-personal-computation/), I mentioned that I landed on OnePlus as my Android OEM of choice. Here is the flushed out reasons for this decision.
 ## Why OnePlus?
 So after a short, and regrettable stint with iPhone in 2011-12, I switched back to Android (you can read about this journey in the aforementioned post), and immediately felt back at home. I had used Motorola, Samsung, LG and HTC phones (which also included some of the Google Nexus models) - (and briefly in 2017 the Essential phone) during a period of about 5 years. During this time, I heavily customized my OS's and had fun doing it. However this came at a cost of stability. I was getting tired of the work it took to maintain and juggle all of the conflicts/instability that were introduced. Then 2016, the OnePlus 3T was launched. I had heard about 1+ but they were hard to get your hands on, and only worked on GSM carriers. Shortly after, T-Mobile launched in my area and I immediately grabbed a 3T.
