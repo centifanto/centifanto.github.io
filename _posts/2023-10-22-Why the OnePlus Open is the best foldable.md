@@ -1,9 +1,9 @@
 ---
 title: Why the OnePlus Open is the best foldable
 tags:
-  - blog/oneplus
-  - blog/android
-  - blog/technology
+  - oneplus
+  - android
+  - technology
 ---
 UPDATE 11/2025: The delicate folding hinge broke inexplicably only months after owning it, so I went back to a slab OP13...only to then sell that I buy a Samsung S24 Ultra! I swore I would never leave OP, but a S24U deal was too good to pass up and try out. I will be writing a blog post about this by the end of the year detailing my reasons and experience, and why I am still using that phone.
 

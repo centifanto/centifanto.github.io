@@ -1,6 +1,6 @@
 ---
 title: My comprehensive note management systems research
-tags: [blog/note-management,blog/task-management,blog/obsidian,blog/pkm]
+tags: [note-management,task-management,obsidian,pkm]
 ---
 I have spent many hours over the past decade+ trying a host of note/knowledge and task management systems. The big ones everyone tried, like Evernote, OneNote, phone notes, markdown management apps, outliners, the list goes on. Three few years ago I was hypnotized, as many are, into thinking Notion would solve all my productivity problems, but found myself getting frustrated every time I used it. Whether it was a quick todo, or a seed of an idea that would need to be grown into a full doc, Notion was too heavy, sluggish, and relied on too many cloud integrations to get anywhere near the tool I wanted. 
 

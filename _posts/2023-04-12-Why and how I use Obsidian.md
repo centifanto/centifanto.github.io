@@ -1,6 +1,6 @@
 ---
 title: Why and how I use Obsidian
-tags: [blog/obsidian,blog/pkm,blog/note-management,blog/task-management,]
+tags: [obsidian,pkm,note-management,task-management,]
 ---
 UPDATE 11/2025: For 2 years I have been perfecting my vault use and maintanence. I will be writing a new guide on this soon, as well as how I use [Todoist](https://www.todoist.com) alongside Obsidian to manage/organize my life.
 

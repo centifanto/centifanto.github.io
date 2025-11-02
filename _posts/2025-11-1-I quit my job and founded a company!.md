@@ -1,6 +1,6 @@
 ---
 title: I quit my job and founded a company!
-tags: [blog/entrepreneur,blog/career]
+tags: [entrepreneur,career]
 ---
 From small town Montana kid to Cloud Architect, to now founder and entrepreneur. I have resigned my position and started my own business [Integritas Cloud Solutions](https://integritascloud.solutions). This journey has been wild!
 

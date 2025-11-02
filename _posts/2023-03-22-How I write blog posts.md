@@ -1,6 +1,6 @@
 ---
 title: How I write blog posts
-tags: [blog/obsidian,blog/website,blog/github]
+tags: [obsidian,website,github]
 ---
 UPDATE 11/2025: I will eventually be migrating this blog to [Astro](https://astro.build). I built my company website with it, [Integritas Cloud Solutions](https://integritascloud.solutions).
 
@@ -15,7 +15,7 @@ If I have a new idea, I create a note and put it in the `backlog` folder. If I w
 ```yaml
 ---
 title: 
-tags: [blog/template]
+tags: [template]
 ---
 
 { { date } }-title
@@ -26,7 +26,7 @@ I then cut the populated date and add a headline to the title i.e. `2023-03-22-H
 2023-03-22-How I write blog posts
 ---
 title: How I write blog posts
-tags: [blog/obsidian,blog/website,blog/github]
+tags: [obsidian,website,github]
 ---
 ```
 

@@ -1,6 +1,6 @@
 ---
 title: Easily build a website with GitHub pages
-tags: [blog/website,blog/github,blog/obsidian,blog/jekyll]
+tags: [website,github,obsidian,jekyll]
 ---
 This is my walkthrough of how to easily publish a site with GitHub pages and Jekyll. I am using the [Chirpy-starter](https://github.com/cotes2020/chirpy-starter/), which is just based off of the Chirpy Jekyll theme. There are a lot of Jekyll themes out there, but this one I picked for the clean styling, and also the blog centric focus. The starter version is not as customizable, but easier to get up and going. I might in the future use something more extensible, but this offered everything I need at the moment.
 
@@ -65,7 +65,7 @@ Example:
 ```yaml
 ---
 title: New post
-tags: [blog/obsidian_nested,regular_tag]
+tags: [obsidian_nested,regular_tag]
 ---
 Content of blog post....
 ```

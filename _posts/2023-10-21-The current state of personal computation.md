@@ -1,8 +1,8 @@
 ---
 title: The current state of personal computation
 tags:
-  - blog/technology
-  - blog/android
+  - technology
+  - android
 ---
 ## Introduction
 I have been a major Android fan since the OG Moto Droid from Verizon in 2009. A short, and regrettable stint with iPhone in 2011-12, was the only time I wasn't rocking a Android. I have wanted to write down my thoughts on this journey for awhile, and after waiting for 4 years to buy a foldable, OnePlus finally released theirs, called the Open. I thought now would be a great time to chronicle my smartphone journey as I take a foray into such a unique category of computation innovation.
