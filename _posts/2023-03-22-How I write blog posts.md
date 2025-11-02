@@ -2,6 +2,7 @@
 title: How I write blog posts
 tags: [blog/obsidian,blog/website,blog/github]
 ---
+UPDATE 11/2025: I will eventually be migrating this blog to [Astro](https://astro.build). I built my company website with it, [Integritas Cloud Solutions](https://integritascloud.solutions).
 Now that I've [migrated to GitHub Pages](/posts/Easily-build-a-website-with-GitHub-pages/), here is my process for writing blog posts.
 
 I have a folder in Obsidian that house my blog posts. Contains the following sub folders:
