@@ -3,6 +3,7 @@ title: Why and how I use Obsidian
 tags: [blog/obsidian,blog/pkm,blog/note-management,blog/task-management,]
 ---
 UPDATE 11/2025: For 2 years I have been perfecting my vault use and maintanence. I will be writing a new guide on this soon, as well as how I use [Todoist](https://www.todoist.com) alongside Obsidian to manage/organize my life.
+
 In my [previous post](/posts/My-comprehensive-note-management-systems-research/), I detailed all the research I have done over the last decade regarding note management systems. I have listed all the issues I found with them, and concluded in my choice of using [Obsidian](https://obsidian.md). This post will detail all the massive benefits of using Obsidian, including my personal workflow and mentality of PKM (Personal Knowledge Management).
 
 ## Here are some high level reasons I chose Obsidian

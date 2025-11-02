@@ -6,6 +6,7 @@ tags:
   - blog/technology
 ---
 UPDATE 11/2025: The delicate folding hinge broke inexplicably only months after owning it, so I went back to a slab OP13...only to then sell that I buy a Samsung S24 Ultra! I swore I would never leave OP, but a S24U deal was too good to pass up and try out. I will be writing a blog post about this by the end of the year detailing my reasons and experience, and why I am still using that phone.
+
 UPDATE 11/1/23: Have been using the phone for 4 days, and this device is very impressive! Surpasses my expectations in many areas, extremely happy with my purchase. I will be doing a follow up post with my impressions and revised opinions, and will link it back here. Also, check out [this 10 part series](https://community.oneplus.com/thread/1427771383936450561) that OnePlus posted about different engineering aspects of the Open. Very fascinating inside look at the effort and attention to detail they put into this device. Really impressive, especially the hinge and screen technology.
 
 ---
